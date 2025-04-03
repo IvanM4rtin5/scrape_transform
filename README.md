@@ -122,6 +122,9 @@ web-scraping-ans/
 
 ---
 ### 📧 Contato
+
 **Nome:** Ivan Martins
+
 **Email:** ivanmarti.alves@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/ivan-martins-alves/
