@@ -1,0 +1,35 @@
+# Diretório de arquivos baixados e gerados
+/arquivos/
+Teste_*.zip
+
+# Arquivos PDF originais
+*.pdf
+
+# Arquivos CSV intermediários
+*.csv
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.env/
+.env.bak/
+
+# Arquivos de IDE/Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Dependências instaladas
+site-packages/
+lib/
+lib64/
