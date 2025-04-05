@@ -50,7 +50,7 @@ Este projeto realiza a extração e transformação de dados dos Anexos I e II d
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/IvanM4rtin5/web-scraping-ans.git
+git clone https://github.com/IvanM4rtin5/scrape_transform.git
 ```
 - Crie e ative um ambiente virtual (recomendado):
 
