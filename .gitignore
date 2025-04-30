@@ -1,14 +1,11 @@
-# Diretório de arquivos baixados e gerados
+
 /arquivos/
 Teste_*.zip
 
-# Arquivos PDF originais
 *.pdf
 
-# Arquivos CSV intermediários
 *.csv
 
-# Cache e arquivos temporários do Python
 __pycache__/
 *.py[cod]
 *.pyo
